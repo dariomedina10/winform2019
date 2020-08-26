@@ -22,7 +22,7 @@
             MessageBox.Show("Nos Fuimos")
             Me.Close()
         End If
-
+        '
         opcion2 = MessageBox.Show("Realmente desea Salir",
                                  "Salir del Programa",
                                  MessageBoxButtons.OKCancel,
